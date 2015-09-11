@@ -1,6 +1,6 @@
 {
   "name": "nanocyte-node-greater-than-or-equal-to",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "greater than or equal to node",
   "main": "index.js",
   "scripts": {
