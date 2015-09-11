@@ -1,0 +1,31 @@
+{
+  "name": "nanocyte-node-greater-than-or-equal-to",
+  "version": "1.0.0",
+  "description": "greater than or equal to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoblu/nanocyte-node-greater-than-or-equal-to.git"
+  },
+  "keywords": [
+    "nanocyte",
+    "meshblu",
+    "octoblu"
+  ],
+  "author": "sqrt@octoblu.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/nanocyte-node-greater-than-or-equal-to/issues"
+  },
+  "homepage": "https://github.com/octoblu/nanocyte-node-greater-than-or-equal-to#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "coffee-script": "^1.10.0",
+    "mocha": "^2.3.2",
+    "sinon": "^1.16.1",
+    "sinon-chai": "^2.8.0"
+  }
+}
